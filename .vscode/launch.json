@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "FUW365BCW1PEIK",
+            "server": "https://FUW365BCW1PEIK",
+            "serverInstance": "nav",
+            "tenant": "",
+            "authentication": "UserPassword",
+            "schemaUpdateMode": "Synchronize",
+            "startupObjectId": 22,
+            "startupObjectType": "Page"
+        }
+    ]
+}
