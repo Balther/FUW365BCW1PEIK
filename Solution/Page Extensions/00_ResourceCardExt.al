@@ -14,6 +14,8 @@ pageextension 50100 "CSD ResourceCardExt" extends "Resource Card"
             field("CSD Resource Type"; "CSD Resource Type")
             {
                 Caption = 'Resource Type';
+                ApplicationArea = All;
+                Visible = true;
             }
             field("CSD Quantity Per Day"; "CSD Quantity Per Day")
             {
