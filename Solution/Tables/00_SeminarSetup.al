@@ -1,5 +1,5 @@
 table 50100 "CSD Seminar Setup"
-// CSD1.00 - 2018-01-01 - D. E. Veloper
+// CSD1.00 - 2018-01-01 - D. E. Veloper FUW
 // Chapter 5 - Lab 3-1
 {
     Caption = 'Seminar Setup';
