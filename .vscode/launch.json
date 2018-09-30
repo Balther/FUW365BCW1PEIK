@@ -10,7 +10,7 @@
             "tenant": "",
             "authentication": "UserPassword",
             "schemaUpdateMode": "Synchronize",
-            "startupObjectId": 22,
+            "startupObjectId": 50100,
             "startupObjectType": "Page"
         }
     ]
